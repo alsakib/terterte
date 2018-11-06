@@ -1,2 +1,2 @@
 # PHP
-## Content show <?php echo "";?> 
+## Content show ?php echo "";? 
